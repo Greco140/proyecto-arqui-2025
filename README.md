@@ -1,4 +1,4 @@
-# proyecto-daw-2025
+# proyecto-arqui-2025
 Proyecto final de la materia Arquitectura de Software 2025.
 
 
