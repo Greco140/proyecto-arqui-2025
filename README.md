@@ -13,5 +13,3 @@ Proyecto final de la materia Arquitectura de Software 2025.
 ## Navegación entre entregas
 
 - [Entrega 1](../Entrega-1/)
-- [Entrega 2](../Entrega-2/)
-- [Entrega 3](../Entrega-3/)
